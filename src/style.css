@@ -19,6 +19,7 @@ h1 {
     font-size: 36px;
     font-weight: bold;
     margin: 0;
+    display: inline-block;
 }
 /* styles de la section "Entrée de dictee" */
 .dictee {
@@ -83,3 +84,4 @@ img {
     max-width: 200px;
     height: auto;
 }
+
